@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="shared.css">
+    <title>About Me</title>
+</head>
+<body>
+<header>
+    <div id="header-button-container">
+        <div class="header-button">
+            <a href="./">Home </a>
+        </div>
+        <div class="header-button">
+            <a href="./Community">Community</a>
+        </div>
+        <div class="header-button">
+            <a href="./About_Me">About Me</a>
+        </div>
+    </div>
+    <h1>Josh Kribell</h1>
+</header>
+<main>
+<img src="self.jpg" alt="Self Portrait">
+    <p style="text-align: center;">
+       Letter of Introduction
+    </p>
+    <embed
+            src="Letter_Of_Intro.pdf"
+            type="application/pdf"
+            width="100%"
+            height="500px"
+    />
+</main>
+<footer>
+    <img src="DSU.png" alt="dakota state university logo">
+</footer>
+</body>
+</html>
